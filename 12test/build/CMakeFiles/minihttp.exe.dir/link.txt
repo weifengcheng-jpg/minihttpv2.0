@@ -1,0 +1,1 @@
+/usr/bin/cc  -rdynamic -O3 -fPIC -ggdb -std=gnu99 -pthread -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations   CMakeFiles/minihttp.exe.dir/tests/minihttp.c.o  -o minihttp.exe 

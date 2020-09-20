@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/weifc/share/test/12test/tests/minihttp.c
+stdio.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+string.h
+-
+ctype.h
+-
+arpa/inet.h
+-
+errno.h
+-
+sys/stat.h
+-
+unistd.h
+-
+pthread.h
+-
+stdlib.h
+-
+
